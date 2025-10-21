@@ -1,8 +1,8 @@
-\# Faculdade Cruzeiro do Sul | Técnicas de Desenvolvimento de Algoritmos
+# Faculdade Cruzeiro do Sul | Técnicas de Desenvolvimento de Algoritmos
 
 
 
-\## 👉 Descrição
+## 👉 Descrição
 
 
 
@@ -10,13 +10,13 @@ O material é referente a anotações feitas sobre técnicas de desenvolvimento 
 
 
 
-\## Modelos de algoritmos usados
+## Modelos de algoritmos usados
 
 
 
-\- Portugol 
+- Portugol 
 
-\- Fluxogramas (Flowcharts)
+- Fluxogramas (Flowcharts)
 
 
 
@@ -24,11 +24,11 @@ Usados para planejar códigos com algoritmos
 
 
 
-\### Tipos de estruturas
+### Tipos de estruturas
 
 
 
-\- Estrutura Condicional Simples:
+- Estrutura Condicional Simples:
 
 &nbsp;   
 
@@ -40,11 +40,11 @@ Exemplo
 
 
 
-!\[Diagrama de Estrutura Condicional Simples](simples.png)
+![Diagrama de Estrutura Condicional Simples](simples.png)
 
 
 
-\- Estrutura Condicional Composta
+- Estrutura Condicional Composta
 
 
 
@@ -56,15 +56,14 @@ Exemplo 1
 
 
 
-!\[Diagrama de Estrutura Condional Composta](exemplo\_1.png)
+![Diagrama de Estrutura Condional Composta](exemplo\_1.png)
 
 
 
 Exemplo 2 (aqui há um encadeamento de desvios)
+  
 
-&nbsp;   
-
-!\[Outro diagrama de estrutura composta](exemplo\_2.png)
+![Outro diagrama de estrutura composta](exemplo\_2.png)
 
 
 
@@ -72,15 +71,15 @@ Exemplo 3
 
 
 
-!\[Outro diagrama de estrutura composta](exemplo\_3.png)
+![Outro diagrama de estrutura composta](exemplo\_3.png)
 
 
 
-(\*\*Correção:\*\* o exemplo 2 não se refere a um diagrama de casos, que está apresentado em seguida 😗)
+(**Correção:** o exemplo 2 não se refere a um diagrama de casos, que está apresentado em seguida 😗)
 
 
 
-\- Diagrama de casos
+- Diagrama de casos
 
 
 
@@ -88,11 +87,11 @@ No diagrama de casos, há várias opções de escolha diante de uma decisão. Us
 
 
 
-&nbsp;\[link do repositório de fazedor lista de compras](https://github.com/daylor-dev/Groceries-List-Maker-with-Python-Language)
+[link do repositório de fazedor lista de compras](https://github.com/daylor-dev/Groceries-List-Maker-with-Python-Language)
 
 
 
-!\[Diagrama de uma lista de compras](groceries\_list\_for\_github.png)
+![Diagrama de uma lista de compras](groceries\_list\_for\_github.png)
 
 
 
